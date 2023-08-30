@@ -6,7 +6,8 @@
 - [x] Data Types: Primitives and Objects
 - [x] Object Fundamentals
 - [x] `this` keyword in Objects
-- [x] Immutable vs Mutable in Functions (*pass-by-vale vs pass-by-ref*)
+- [x] Object iteration
+- [x] Immutable vs Mutable in Functions (*pass-by-value vs pass-by-ref*)
 
 ### 1. Data Types: Primitives and Objects
 ---
