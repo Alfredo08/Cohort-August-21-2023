@@ -1,12 +1,12 @@
 # M02 W05 | Promises
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-August-21-2023/tree/main/W05M02%20-%20Promises) | [Vimeo Video Recording](https://vimeo.com/866945872/8968fca6ec?share=copy)
 
 ## Topics to cover
 
 - [x] 1. Callbacks (quick review)
-- [x] 2. The Async Problem
-- [x] 3. Callback Hell
-- [x] 4. Introduction to Promises
+- [x] 2. Introduction to Promises
+- [x] 3. The Async Problem
+- [x] 4. Callback Hell
 
 ### 1. Callbacks
 ---
@@ -224,3 +224,4 @@ request('https://cataaas.com/api/tags').then(body => {
  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
  - https://blog.greenroots.info/javascript-promises-explain-like-i-am-five
  - https://nodejs.dev/learn/understanding-javascript-promises
+ - https://www.restapitutorial.com/httpstatuscodes.html
